@@ -36,8 +36,8 @@ repositories {
 
 - Add the dependency to your sub build.gradle:
 ```gradle
-		dependencies {
-	     implementation 'com.github.mirshahbazi:MorphTransitions:8222df52e5'
+	dependencies {
+	     implementation 'com.github.mirshahbazi:MorphTransitions:d4edc0726f'
 	}
 
 
