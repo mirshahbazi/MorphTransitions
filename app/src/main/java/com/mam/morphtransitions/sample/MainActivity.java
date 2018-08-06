@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = DialogActivity.newIntent(MainActivity.this, SendMonyDialog.TYPE_BUTTON);
+                Intent intent = DialogActivity.newIntent(MainActivity.this, DialogActivity.TYPE_BUTTON);
                 if (Build.VERSION.SDK_INT >= 21) {
                     MorphTransform.addExtras(intent,
                             ContextCompat.getColor(MainActivity.this, R.color.colorAccent),
