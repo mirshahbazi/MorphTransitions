@@ -5,7 +5,7 @@ Morph transitions from FAB to dialog, and Button to dialog
 [![](https://jitpack.io/v/mirshahbazi/MorphTransitions.svg)](https://jitpack.io/#mirshahbazi/MorphTransitions)
 
 
-![Hero Image](https://github.com/mirshahbazi/MorphTransitions/blob/master/demo/demo.mp4)
+![Hero Image](https://github.com/mirshahbazi/MorphTransitions/blob/master/demo/demo.gif)
 
 # Usage
 See the sample app. Typical usage:
